@@ -8,6 +8,8 @@ My current software-related obsessions are TypeScript, Django, Tailwind CSS, and
 
 My LinkedIn page is [here](https://www.linkedin.com/in/stevenjknaack/)
 
-Check out my projects, please!!
+Check out my projects!!
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjknaack)]
 
 
