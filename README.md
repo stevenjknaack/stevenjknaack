@@ -4,8 +4,6 @@
 
 I am full-stack software engineer interested in animal rights, sustainability, and social justice.
 
-Here is a recent timeline
-
 My current software-related obsessions are TypeScript, Django, Tailwind CSS, and SaaS architecture.
 
 My LinkedIn page is [here](https://www.linkedin.com/in/stevenjknaack/)
