@@ -2,7 +2,7 @@
 
 👋 Hello! Welcome to my github!
 
-I am full-stack software engineer interested in artificial intelligence, sustainability, and social justice.
+I am full-stack software engineer interested in animal rights, sustainability, and social justice.
 
 Here is a recent timeline
 
