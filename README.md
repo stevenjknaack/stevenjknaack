@@ -13,7 +13,7 @@ My LinkedIn page is [here](https://www.linkedin.com/in/stevenjknaack/)
 Check out my projects!!
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjknaack&theme=material-palenight&show_icons=true&include_all_commits=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjknaack&theme=material-palenight&show_icons=true&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenjknaack&theme=material-palenight&layout=compact)
 
 
