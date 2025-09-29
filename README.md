@@ -1,4 +1,4 @@
-# stevenjknaack
+# Steven Knaack
 
 👋 Hello! Welcome to my github!
 
