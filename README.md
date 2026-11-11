@@ -15,8 +15,6 @@
 
 ---
 
-### THE COUNT
-
 <p align="center">
   <img src="assets/kill-counter.svg" width="100%" alt="Live counter: land animals killed for food since you opened this page (~2,537 per second)" />
 </p>
@@ -43,7 +41,7 @@ const steven = {
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### 🌍 JOIN THE FIGHT
+### JOIN THE FIGHT
 
 | | |
 |---|---|
