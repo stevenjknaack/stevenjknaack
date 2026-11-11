@@ -29,6 +29,12 @@ const steven = {
 };
 ```
 
+### ⏱️ THE COUNT
+
+<p align="center">
+  <img src="assets/kill-counter.svg" width="100%" alt="Live counter: land animals killed for food since you opened this page (~2,537 per second)" />
+</p>
+
 ### 🛠️ WEAPONS OF CHOICE
 
 <p>

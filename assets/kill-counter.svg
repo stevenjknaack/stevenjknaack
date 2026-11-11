@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <foreignObject x="0" y="0" width="800" height="200">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="card">
+      <style>
+        /* ~80 billion land animals killed for food per year (FAO)
+           80,000,000,000 / 31,536,000 s ≈ 2,537 per second.
+           Animates over 1 hour: 2,537 * 3,600 = 9,133,200 */
+        @property --n {
+          syntax: "&lt;integer&gt;";
+          initial-value: 0;
+          inherits: false;
+        }
+        @counter-style pad3 {
+          system: numeric;
+          symbols: "0" "1" "2" "3" "4" "5" "6" "7" "8" "9";
+          pad: 3 "0";
+        }
+        .card {
+          box-sizing: border-box;
+          width: 800px;
+          height: 200px;
+          background: #000;
+          border: 2px solid #b71c1c;
+          border-radius: 12px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-family: "Fira Code", ui-monospace, SFMono-Regular, Menlo, monospace;
+          color: #e0e0e0;
+          text-align: center;
+        }
+        .num {
+          --n: 0;
+          animation: tick 3600s linear forwards;
+          counter-reset: n var(--n);
+          font-size: 64px;
+          font-weight: 700;
+          color: #e53935;
+          line-height: 1.1;
+        }
+        .num::after {
+          content: counter(n);
+        }
+        /* Thousands separators where CSS round()/mod() are supported */
+        @supports (width: calc(mod(5px, 3px))) {
+          .num {
+            counter-reset:
+              m calc(round(down, var(--n) / 1000000))
+              k calc(mod(round(down, var(--n) / 1000), 1000))
+              u calc(mod(var(--n), 1000));
+          }
+          .num::after {
+            content: counter(m) "," counter(k, pad3) "," counter(u, pad3);
+          }
+        }
+        @keyframes tick {
+          from { --n: 0; }
+          to { --n: 9133200; }
+        }
+        .label {
+          margin-top: 10px;
+          font-size: 18px;
+          letter-spacing: 0.5px;
+        }
+        .src {
+          margin-top: 8px;
+          font-size: 12px;
+          color: #9e9e9e;
+        }
+      </style>
+      <div class="num"></div>
+      <div class="label">land animals killed for food since you opened this page</div>
+      <div class="src">based on ~80 billion per year (UN FAO) · ≈2,537 every second</div>
+    </div>
+  </foreignObject>
+</svg>
