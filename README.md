@@ -1,41 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1b5e20,50:2e7d32,100:b71c1c&text=Steven%20Knaack&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=code%20for%20liberation,%20not%20exploitation&descAlignY=58&descSize=18" width="100%" alt="Steven Knaack banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,60:7f0000,100:b71c1c&text=Steven%20Knaack&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=no%20cages.%20no%20bosses.%20no%20borders.&descAlignY=58&descSize=18" width="100%" alt="Steven Knaack banner" />
 
 <p align="center">
   <a href="https://github.com/stevenjknaack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=43A047&center=true&vCenter=true&width=600&lines=Full-stack+software+engineer+%F0%9F%8C%B1;Building+tech+for+the+animals+%F0%9F%90%96%F0%9F%90%84%F0%9F%90%93;Another+world+is+possible+%E2%9C%8A;Total+liberation+%3E+total+profit" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=E53935&center=true&vCenter=true&width=600&lines=Abolish+animal+agriculture+%F0%9F%94%A5;Animal+liberation+is+not+a+diet+%E2%9C%8A;Total+liberation+or+nothing;Writing+code+for+the+movement" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/vegan-for%20the%20animals-2e7d32?style=for-the-badge&logo=leaflet&logoColor=white" alt="Vegan" />
-  <img src="https://img.shields.io/badge/animal%20rights-are%20human%20rights-43a047?style=for-the-badge" alt="Animal rights" />
-  <img src="https://img.shields.io/badge/solidarity-forever-b71c1c?style=for-the-badge" alt="Solidarity forever" />
+  <img src="https://img.shields.io/badge/ANIMAL-LIBERATION-b71c1c?style=for-the-badge&labelColor=000000" alt="Animal liberation" />
+  <img src="https://img.shields.io/badge/ABOLITION-NOT%20REFORM-b71c1c?style=for-the-badge&labelColor=000000" alt="Abolition not reform" />
+  <img src="https://img.shields.io/badge/EAT%20THE%20RICH-PLANT--BASED-b71c1c?style=for-the-badge&labelColor=000000" alt="Eat the rich (plant-based)" />
+  <img src="https://img.shields.io/badge/SOLIDARITY-FOREVER-b71c1c?style=for-the-badge&labelColor=000000" alt="Solidarity forever" />
 </p>
 
 ---
 
-### ✊ whoami
+### ✊ WHOAMI
 
 ```ts
 const steven = {
-  role: "Full-stack software engineer",
-  diet: "🌱 vegan — for the animals, the planet, and the workers",
-  politics: "leftist — people & animals over profit",
-  causes: ["animal liberation", "climate justice", "labor rights", "social justice"],
+  role: "Full-stack engineer for the movement",
+  position: "abolitionist — not 'humane' meat, not bigger cages, empty cages",
+  politics: "anti-capitalist",
+  enemies: ["factory farming", "the fossil fuel industry", "landlords", "union busters"],
   currentlyLearning: ["AdonisJS", "shadcn/ui", "SaaS architecture"],
-  volunteering: "Vegan Hacktivists — sanctuary management software 🐐",
-  belief: "Technology should serve the many, not the few.",
+  volunteering: "Vegan Hacktivists — sanctuary software 🐐",
+  stance: "Neutrality in the face of injustice is a choice. I've made mine.",
 };
 ```
 
-### 🐖 What I care about
+### 🔥 WHERE I STAND
 
-- **Animal liberation** — Animals are someone, not something. Every sentient being deserves to live free from exploitation.
-- **Climate justice** — Animal agriculture is a leading driver of deforestation, biodiversity loss, and emissions. The people least responsible bear the worst of it.
-- **Workers' rights** — From slaughterhouse workers to tech workers, the people who do the work deserve power over it.
-- **Collective liberation** — Oppression is interconnected. So is our struggle against it.
+- **Empty the cages.** Over 80 billion land animals are killed for food every year. That isn't a lifestyle choice — it's an atrocity.
+- **Capitalism is the root.** The same system that grinds animals into products grinds workers into costs and the planet into resources.
+- **Abolition, not welfare.** "Cage-free" and "humanely raised" are marketing. Liberation means no exploitation, period.
+- **Tech isn't neutral.** I build for sanctuaries, organizers, and movements — not for surveillance or ad-tech.
 
-### 🛠️ Tools I build with
+### 🛠️ WEAPONS OF CHOICE
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -47,26 +48,19 @@ const steven = {
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-### 🌍 Start here
+### 🌍 JOIN THE FIGHT
 
 | | |
 |---|---|
 | 🎬 **Watch** | [Dominion](https://watchdominion.org/) — my favorite movie, and the one everyone should see |
 | 💻 **Build** | [Vegan Hacktivists](https://veganhacktivists.org/) — tech volunteers for the animals |
-| 🥦 **Try** | [Challenge 22](https://challenge22.com/) — go vegan for 22 days with a free mentor |
-
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stevenjknaack&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=43a047&icon_color=e53935&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenjknaack&layout=compact&hide_border=true&bg_color=0d1117&title_color=43a047&text_color=c9d1d9" alt="Top languages" />
-</p>
+| 📣 **Organize** | Find your local [Animal Save Movement](https://thesavemovement.org/) chapter or animal rights group |
 
 ---
 
 <p align="center">
-  <i>"The question is not, Can they reason? nor, Can they talk? but, Can they suffer?"</i><br/>
-  — Jeremy Bentham
+  <i>"Animals are not ours to experiment on, eat, wear, use for entertainment, or abuse in any other way."</i><br/>
+  — PETA
 </p>
 
 <p align="center">
@@ -74,4 +68,4 @@ const steven = {
   — Fannie Lou Hamer
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b71c1c,50:2e7d32,100:1b5e20" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:b71c1c,40:7f0000,100:000000" width="100%" alt="footer" />
