@@ -15,27 +15,23 @@
 
 ---
 
-### ✊ WHOAMI
+### WHOAMI
 
 ```ts
 const steven = {
   role: "Full-stack engineer for the movement",
   position: "abolitionist — not 'humane' meat, not bigger cages, empty cages",
-  politics: "anti-capitalist",
-  enemies: ["factory farming", "the fossil fuel industry", "union busters"],
-  currentlyLearning: ["AdonisJS", "shadcn/ui", "SaaS architecture"],
   volunteering: "Vegan Hacktivists — sanctuary software 🐐",
-  stance: "Neutrality in the face of injustice is a choice. I've made mine.",
 };
 ```
 
-### ⏱️ THE COUNT
+### THE COUNT
 
 <p align="center">
   <img src="assets/kill-counter.svg" width="100%" alt="Live counter: land animals killed for food since you opened this page (~2,537 per second)" />
 </p>
 
-### 🛠️ WEAPONS OF CHOICE
+### WEAPONS OF CHOICE
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
