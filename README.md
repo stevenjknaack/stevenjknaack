@@ -22,19 +22,12 @@ const steven = {
   role: "Full-stack engineer for the movement",
   position: "abolitionist — not 'humane' meat, not bigger cages, empty cages",
   politics: "anti-capitalist",
-  enemies: ["factory farming", "the fossil fuel industry", "landlords", "union busters"],
+  enemies: ["factory farming", "the fossil fuel industry", "union busters"],
   currentlyLearning: ["AdonisJS", "shadcn/ui", "SaaS architecture"],
   volunteering: "Vegan Hacktivists — sanctuary software 🐐",
   stance: "Neutrality in the face of injustice is a choice. I've made mine.",
 };
 ```
-
-### 🔥 WHERE I STAND
-
-- **Empty the cages.** Over 80 billion land animals are killed for food every year. That isn't a lifestyle choice — it's an atrocity.
-- **Capitalism is the root.** The same system that grinds animals into products grinds workers into costs and the planet into resources.
-- **Abolition, not welfare.** "Cage-free" and "humanely raised" are marketing. Liberation means no exploitation, period.
-- **Tech isn't neutral.** I build for sanctuaries, organizers, and movements — not for surveillance or ad-tech.
 
 ### 🛠️ WEAPONS OF CHOICE
 
