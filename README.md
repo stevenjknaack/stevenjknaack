@@ -29,25 +29,13 @@ const steven = {
 };
 ```
 
-### WEAPONS OF CHOICE
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
 ### JOIN THE FIGHT
 
 | | |
 |---|---|
-| 🎬 **Watch** | [Dominion](https://watchdominion.org/) — my favorite movie, and the one everyone should see |
-| 💻 **Build** | [Vegan Hacktivists](https://veganhacktivists.org/) — tech volunteers for the animals |
-| 📣 **Organize** | Find your local [Animal Save Movement](https://thesavemovement.org/) chapter or animal rights group |
+| **Watch** | [Dominion](https://watchdominion.org/) — my favorite movie |
+| **Build** | [Vegan Hacktivists](https://veganhacktivists.org/) — tech volunteers for the animals |
+| **Organize** | Find your local [Animal Save Movement](https://thesavemovement.org/) chapter or animal rights group |
 
 ---
 
