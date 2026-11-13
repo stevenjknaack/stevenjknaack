@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/stevenjknaack">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=E53935&center=true&vCenter=true&width=600&lines=Abolish+animal+agriculture+%F0%9F%94%A5;Animal+liberation+is+not+a+diet+%E2%9C%8A;Total+liberation+or+nothing;Writing+code+for+the+movement" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=E53935&center=true&vCenter=true&width=600&lines=Abolish+animal+agriculture;Animal+liberation+is+not+a+diet;Total+liberation+or+nothing;Writing+code+for+the+movement" alt="Typing intro" />
   </a>
 </p>
 
